@@ -1,0 +1,6 @@
+saat ingin run/debug program, ubah lokasi direktori (file ProjectLocalDB.mdf) connection string pada class connection (berada di folder DAO), sesuaikan lokasi direktori saat ekstrak rar.
+
+Username : Admin
+Password : Admin
+
+Terimakasih:)

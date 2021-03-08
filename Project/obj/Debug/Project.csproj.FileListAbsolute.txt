@@ -1,0 +1,86 @@
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.DAO.Login.resources
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\Project.exe.config
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\Project.exe
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\Project.pdb
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.exe
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.pdb
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.GUI.MainMenu.resources
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\System.Data.OleDb.dll
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\System.Data.SqlClient.dll
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\System.Data.OleDb.xml
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\System.Data.SqlClient.xml
+D:\Mata Kuliah\PBO\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Mata Kuliah\PBO\Project\Project\bin\Debug\Guna.UI2.dll
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\Project.exe.config
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\Project.exe
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\Project.pdb
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\Guna.UI2.dll
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\System.Data.OleDb.dll
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\System.Data.SqlClient.dll
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\System.Data.OleDb.xml
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\System.Data.SqlClient.xml
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.DAO.Login.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.exe
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.pdb
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\Project_DB.mdb
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.Home.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.TransaksiADD.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.TransaksiUI.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.KeuanganUI.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\bin\Debug\FontAwesome.Sharp.dll
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.Dashboard.resources
+D:\Mata Kuliah\PBO\tugas besar\Project\Project\obj\Debug\Project.GUI.Motorcycle.resources
+D:\Project\Project\bin\Debug\FontAwesome.Sharp.dll
+D:\Project\Project\bin\Debug\Guna.UI2.dll
+D:\Project\Project\bin\Debug\System.Data.OleDb.dll
+D:\Project\Project\bin\Debug\System.Data.SqlClient.dll
+D:\Project\Project\bin\Debug\System.Data.OleDb.xml
+D:\Project\Project\bin\Debug\System.Data.SqlClient.xml
+D:\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Project\Project\obj\Debug\Project.GUI.Home.resources
+D:\Project\Project\obj\Debug\Project.GUI.Motorcycle.resources
+D:\Project\Project\obj\Debug\Project.GUI.KeuanganUI.resources
+D:\Project\Project\obj\Debug\Project.DAO.Login.resources
+D:\Project\Project\obj\Debug\Project.GUI.Dashboard.resources
+D:\Project\Project\obj\Debug\Project.GUI.TransaksiUI.resources
+D:\Project\Project\obj\Debug\Project.GUI.TransaksiADD.resources
+D:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Project\Project\obj\Debug\Project.exe
+D:\Project\Project\obj\Debug\Project.pdb
+D:\Project\Project\bin\Debug\Project.exe.config
+D:\Project\Project\bin\Debug\Project.exe
+D:\Project\Project\bin\Debug\Project.pdb
+D:\Koding\C#\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.Home.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.Motorcycle.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.KeuanganUI.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.DAO.Login.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.Dashboard.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.TransaksiUI.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.GUI.TransaksiADD.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Koding\C#\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Koding\C#\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Koding\C#\Project\Project\obj\Debug\Project.exe
+D:\Koding\C#\Project\Project\obj\Debug\Project.pdb
+D:\Koding\C#\Project\Project\bin\Debug\Project.exe.config
+D:\Koding\C#\Project\Project\bin\Debug\Project.exe
+D:\Koding\C#\Project\Project\bin\Debug\Project.pdb
+D:\Koding\C#\Project\Project\bin\Debug\FontAwesome.Sharp.dll
+D:\Koding\C#\Project\Project\bin\Debug\System.Data.OleDb.dll
+D:\Koding\C#\Project\Project\bin\Debug\System.Data.SqlClient.dll
+D:\Koding\C#\Project\Project\bin\Debug\System.Data.OleDb.xml
+D:\Koding\C#\Project\Project\bin\Debug\System.Data.SqlClient.xml
+D:\Koding\C#\Project\Project\obj\Debug\Project.csproj.CopyComplete
